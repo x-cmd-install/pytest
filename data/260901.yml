@@ -1,0 +1,57 @@
+about:
+  description: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+  license: MIT
+  homepage: https://pytest.org
+  head: e984a9b
+  archived: false
+  latestVersion: 9.1.1
+  collectedAt: 2026-09-01T05:22:32Z
+timeline:
+  created: 2015-06-15
+  lastCommit: 2026-09-01
+  lastRelease: 2026-06-19
+popularity:
+  star: 14464
+  watcher: 191
+  fork: 3333
+  release: 84
+  contributor: 1010
+  pullRequest: 1295
+  issue: 6379
+language:
+  Python: 3801022
+  Gherkin: 192
+totalLine: 3801214
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 38
+    openPR: 32
+    closedIssue: 7
+    openIssue: 13
+    commit: 111
+  last90d:
+    since: 2026-06-03
+    release: 2
+    mergedPR: 157
+    openPR: 74
+    closedIssue: 41
+    openIssue: 28
+    commit: 337
+  last180d:
+    since: 2026-03-05
+    release: 3
+    mergedPR: 291
+    openPR: 87
+    closedIssue: 80
+    openIssue: 40
+    commit: 598
+  last360d:
+    since: 2025-09-06
+    release: 6
+    mergedPR: 587
+    openPR: 113
+    closedIssue: 163
+    openIssue: 81
+    commit: 1076
