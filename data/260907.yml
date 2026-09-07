@@ -2,96 +2,96 @@ about:
   description: "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
   license: MIT
   homepage: https://pytest.org
-  head: 431f3e1
+  head: 472b4de
   archived: false
   latestVersion: "9.1.1"
-  collectedAt: 2026-09-07T04:35:44Z
+  collectedAt: 2026-09-07T19:47:29Z
 timeline:
   created: 2015-06-15
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-06-19
 popularity:
-  star: 14484
+  star: 14488
   watcher: 192
   fork: 3350
   release: 84
-  contributor: 996
-  pullRequest: 7428
-  issue: 6382
+  contributor: 998
+  pullRequest: 7431
+  issue: 6383
 language:
-  Python: 3820890
+  Python: 3827065
   Gherkin: 192
-totalBytes: 3821082
+totalBytes: 3827257
 recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 37
-    openPR: 39
-    closedIssue: 6
+    mergedPR: 39
+    openPR: 37
+    closedIssue: 7
     openIssue: 13
-    commit: 99
+    commit: 105
   last60d:
     since: 2026-07-09
     release: 0
-    mergedPR: 98
-    openPR: 68
-    closedIssue: 19
+    mergedPR: 100
+    openPR: 65
+    closedIssue: 20
     openIssue: 24
-    commit: 259
+    commit: 265
   last90d:
     since: 2026-06-09
     release: 2
-    mergedPR: 151
-    openPR: 80
-    closedIssue: 39
+    mergedPR: 153
+    openPR: 77
+    closedIssue: 40
     openIssue: 28
-    commit: 329
+    commit: 335
   last180d:
     since: 2026-03-11
     release: 3
-    mergedPR: 288
-    openPR: 92
-    closedIssue: 81
+    mergedPR: 290
+    openPR: 89
+    closedIssue: 82
     openIssue: 41
-    commit: 595
+    commit: 601
   last360d:
     since: 2025-09-12
     release: 6
-    mergedPR: 581
-    openPR: 119
-    closedIssue: 161
+    mergedPR: 583
+    openPR: 116
+    closedIssue: 162
     openIssue: 81
-    commit: 1073
+    commit: 1079
   last720d:
     since: 2024-09-17
     release: 11
-    mergedPR: 980
-    openPR: 128
-    closedIssue: 376
+    mergedPR: 982
+    openPR: 125
+    closedIssue: 377
     openIssue: 149
-    commit: 1491
+    commit: 1497
 total:
   release: 84
-  mergedPR: 6120
-  openPR: 134
-  closedIssue: 5701
-  openIssue: 681
-  commit: 17722
+  mergedPR: 6122
+  openPR: 131
+  closedIssue: 5703
+  openIssue: 680
+  commit: 17728
 ---
 path: /home/runner/.x-repo/github.com/pytest-dev/pytest
-collectedAt: 2026-09-07T04:35:52Z
+collectedAt: 2026-09-07T19:47:36Z
 loc:
   Python:
-    code: 96883
-    comments: 4093
-    blanks: 13945
+    code: 97034
+    comments: 4102
+    blanks: 14000
     files: 274
   ReStructuredText:
-    code: 41093
+    code: 41096
     comments: 0
-    blanks: 19562
-    files: 333
+    blanks: 19563
+    files: 335
   Svg:
     code: 845
     comments: 70
@@ -148,10 +148,10 @@ loc:
     blanks: 3
     files: 4
 total:
-  code: 139670
-  comments: 4386
-  blanks: 33622
-  files: 641
+  code: 139824
+  comments: 4395
+  blanks: 33678
+  files: 643
 ---
 date: "2026-08-24"
 repo:
@@ -263,7 +263,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:35:52+00:00
+  collectedAt: 2026-09-07T19:47:37+00:00
   platform:
     darwin/arm64:
       name:  null
