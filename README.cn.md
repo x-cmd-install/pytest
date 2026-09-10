@@ -4,7 +4,7 @@
 
 The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 
-![pytest](https://repo.x-cmd.io/pytest.svg)
+![pytest](https://repo.x-cmd.io/pytest.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,29 @@ x install pytest
 - **最新版本**: `9.1.1` (2026-06-19)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-06-19T10:58:55Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pytest-9.1.1-py3-none-any.whl](https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1-py3-none-any.whl) | 377.5 KiB | `other` |
+| [pytest-9.1.1.tar.gz](https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1.tar.gz) | 1.6 MiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 14,493 · **Fork**: 3,354 · **开放 issue**: 6,387 · **贡献者**: 998
+- **Star**: 14,495 · **Fork**: 3,355 · **开放 issue**: 6,389 · **贡献者**: 998
 
 ## 累计统计
 
-- **发布数**: 84 · **已合并 PR**: 6124 · **开放 PR**: 133 · **已关闭 issue**: 5705 · **开放 issue**: 682 · **提交数**: 17731
+- **发布数**: 84 · **已合并 PR**: 6124 · **开放 PR**: 134 · **已关闭 issue**: 5705 · **开放 issue**: 684 · **提交数**: 17731
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 34 | 34 | 8 | 13 | 107 |
-| 90d | 2026-06-12 | 2 | 154 | 79 | 41 | 29 | 338 |
-| 360d | 2025-09-15 | 6 | 578 | 118 | 163 | 83 | 1082 |
+| 30d | 2026-08-11 | 0 | 34 | 35 | 8 | 15 | 107 |
+| 90d | 2026-06-12 | 2 | 154 | 80 | 41 | 31 | 338 |
+| 360d | 2025-09-15 | 6 | 578 | 119 | 163 | 85 | 1082 |
 
 ## 代码规模
 
@@ -72,4 +78,4 @@ pytest 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:35:53Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:34:16Z._

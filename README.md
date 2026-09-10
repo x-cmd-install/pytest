@@ -23,23 +23,29 @@ x install pytest
 - **Latest**: `9.1.1` (2026-06-19)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 2
-- **Published**: 2026-06-19T10:58:55Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pytest-9.1.1-py3-none-any.whl](https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1-py3-none-any.whl) | 377.5 KiB | `other` |
+| [pytest-9.1.1.tar.gz](https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1.tar.gz) | 1.6 MiB | `native/unknown` |
 
 ## Popularity
 
-- **Stars**: 14,493 · **Forks**: 3,354 · **Open issues**: 6,387 · **Contributors**: 998
+- **Stars**: 14,495 · **Forks**: 3,355 · **Open issues**: 6,389 · **Contributors**: 998
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 6124 · **Open PRs**: 133 · **Closed issues**: 5705 · **Open issues**: 682 · **Commits**: 17731
+- **Releases**: 84 · **Merged PRs**: 6124 · **Open PRs**: 134 · **Closed issues**: 5705 · **Open issues**: 684 · **Commits**: 17731
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 34 | 34 | 8 | 13 | 107 |
-| 90d | 2026-06-12 | 2 | 154 | 79 | 41 | 29 | 338 |
-| 360d | 2025-09-15 | 6 | 578 | 118 | 163 | 83 | 1082 |
+| 30d | 2026-08-11 | 0 | 34 | 35 | 8 | 15 | 107 |
+| 90d | 2026-06-12 | 2 | 154 | 80 | 41 | 31 | 338 |
+| 360d | 2025-09-15 | 6 | 578 | 119 | 163 | 85 | 1082 |
 
 ## Code size
 
@@ -68,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pytest` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pytest.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pytest.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:35:53Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:34:15Z._
