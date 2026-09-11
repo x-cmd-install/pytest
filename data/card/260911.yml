@@ -7,7 +7,7 @@ about:
   latestVersion: "9.1.1"
   latestRelease: "9.1.1"
   latestPrerelease: "8.1.0"
-  collectedAt: 2026-09-11T04:33:58Z
+  collectedAt: 2026-09-11T20:34:46Z
 timeline:
   created: 2015-06-15
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 2024-03-03
 popularity:
-  star: 14497
+  star: 14498
   watcher: 192
-  fork: 3357
+  fork: 3359
   release: 84
   contributor: 998
-  pullRequest: 7441
+  pullRequest: 7443
   issue: 6389
 language:
   Python: 3827065
@@ -31,60 +31,60 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 33
-    openPR: 35
-    closedIssue: 7
-    openIssue: 15
+    openPR: 34
+    closedIssue: 9
+    openIssue: 13
     commit: 107
   last60d:
     since: 2026-07-13
     release: 0
     mergedPR: 95
-    openPR: 70
-    closedIssue: 21
-    openIssue: 28
+    openPR: 69
+    closedIssue: 23
+    openIssue: 26
     commit: 267
   last90d:
     since: 2026-06-13
     release: 2
     mergedPR: 149
-    openPR: 81
-    closedIssue: 39
-    openIssue: 31
+    openPR: 80
+    closedIssue: 41
+    openIssue: 29
     commit: 338
   last180d:
     since: 2026-03-15
     release: 3
     mergedPR: 286
-    openPR: 92
-    closedIssue: 84
-    openIssue: 43
+    openPR: 91
+    closedIssue: 86
+    openIssue: 41
     commit: 604
   last360d:
     since: 2025-09-16
     release: 6
     mergedPR: 578
-    openPR: 120
-    closedIssue: 162
-    openIssue: 85
+    openPR: 119
+    closedIssue: 164
+    openIssue: 83
     commit: 1082
   last720d:
     since: 2024-09-21
     release: 11
     mergedPR: 980
-    openPR: 129
-    closedIssue: 379
-    openIssue: 153
+    openPR: 128
+    closedIssue: 381
+    openIssue: 151
     commit: 1499
 total:
   release: 84
   mergedPR: 6124
-  openPR: 135
-  closedIssue: 5705
-  openIssue: 684
+  openPR: 134
+  closedIssue: 5707
+  openIssue: 682
   commit: 17731
 ---
 path: /home/runner/.x-repo/github.com/pytest-dev/pytest
-collectedAt: 2026-09-11T04:34:07Z
+collectedAt: 2026-09-11T20:34:55Z
 loc:
   Python:
     code: 97034
