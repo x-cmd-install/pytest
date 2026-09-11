@@ -7,7 +7,7 @@ about:
   latestVersion: "9.1.1"
   latestRelease: "9.1.1"
   latestPrerelease: "8.1.0"
-  collectedAt: 2026-09-11T00:14:15Z
+  collectedAt: 2026-09-11T04:33:58Z
 timeline:
   created: 2015-06-15
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 2024-03-03
 popularity:
-  star: 14495
+  star: 14497
   watcher: 192
   fork: 3357
   release: 84
@@ -84,7 +84,7 @@ total:
   commit: 17731
 ---
 path: /home/runner/.x-repo/github.com/pytest-dev/pytest
-collectedAt: 2026-09-11T00:14:25Z
+collectedAt: 2026-09-11T04:34:07Z
 loc:
   Python:
     code: 97034
