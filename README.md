@@ -12,42 +12,7 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 x install pytest
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/pytest-dev/pytest>
-- **Homepage**: <https://pytest.org>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `9.1.1` (2026-06-19)
-- **Last commit**: 2026-09-08
-- **Assets in release**: 2
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [pytest-9.1.1-py3-none-any.whl](https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1-py3-none-any.whl) | 377.5 KiB | `other` |
-| [pytest-9.1.1.tar.gz](https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1.tar.gz) | 1.6 MiB | `native/unknown` |
-
-## Popularity
-
-- **Stars**: 14,495 · **Forks**: 3,355 · **Open issues**: 6,389 · **Contributors**: 998
-
-## Totals (cumulative)
-
-- **Releases**: 84 · **Merged PRs**: 6124 · **Open PRs**: 134 · **Closed issues**: 5705 · **Open issues**: 684 · **Commits**: 17731
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 34 | 35 | 8 | 15 | 107 |
-| 90d | 2026-06-12 | 2 | 154 | 80 | 41 | 31 | 338 |
-| 360d | 2025-09-15 | 6 | 578 | 119 | 163 | 85 | 1082 |
-
-## Code size
+## Code insight
 
 Total: **139,825** lines of code across **630** files in the top 5 languages.
 
@@ -69,6 +34,44 @@ Lowest-scoring checks:
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
+## Source
+
+- **Upstream**: <https://github.com/pytest-dev/pytest>
+- **Homepage**: <https://pytest.org>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `9.1.1` (2026-06-19)
+- **Last commit**: 2026-09-08
+- **Assets in release**: 2
+
+## Popularity
+
+- **Stars**: 14,495 · **Forks**: 3,357 · **Open issues**: 6,389 · **Contributors**: 998
+
+## Totals (cumulative)
+
+- **Releases**: 84 · **Merged PRs**: 6124 · **Open PRs**: 135 · **Closed issues**: 5705 · **Open issues**: 684 · **Commits**: 17731
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 33 | 35 | 7 | 15 | 107 |
+| last60d | 2026-07-13 | 0 | 95 | 70 | 21 | 28 | 267 |
+| 90d | 2026-06-13 | 2 | 149 | 81 | 39 | 31 | 338 |
+| last180d | 2026-03-15 | 3 | 286 | 92 | 84 | 43 | 604 |
+| 360d | 2025-09-16 | 6 | 578 | 120 | 162 | 85 | 1082 |
+| last720d | 2024-09-21 | 11 | 980 | 129 | 379 | 153 | 1499 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pytest-9.1.1-py3-none-any.whl](https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1-py3-none-any.whl) | 377.5 KiB | `other` |
+| [pytest-9.1.1.tar.gz](https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1.tar.gz) | 1.6 MiB | `native/unknown` |
+
 ## Improve this data
 
 Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pytest` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +81,4 @@ Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:34:15Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:14:28Z._
