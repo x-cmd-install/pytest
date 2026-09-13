@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,498 · **Forks**: 3,360 · **Open issues**: 6,389 · **Contributors**: 998
+- **Stars**: 14,502 · **Forks**: 3,361 · **Open issues**: 6,390 · **Contributors**: 998
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 6124 · **Open PRs**: 134 · **Closed issues**: 5707 · **Open issues**: 682 · **Commits**: 17731
+- **Releases**: 84 · **Merged PRs**: 6124 · **Open PRs**: 136 · **Closed issues**: 5707 · **Open issues**: 683 · **Commits**: 17731
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 32 | 34 | 9 | 13 | 107 |
-| last60d | 2026-07-14 | 0 | 95 | 68 | 22 | 26 | 267 |
-| 90d | 2026-06-14 | 1 | 145 | 79 | 41 | 29 | 338 |
-| last180d | 2026-03-16 | 3 | 285 | 91 | 86 | 41 | 604 |
-| 360d | 2025-09-17 | 6 | 578 | 119 | 164 | 83 | 1082 |
-| last720d | 2024-09-22 | 11 | 979 | 128 | 381 | 151 | 1496 |
+| 30d | 2026-08-14 | 0 | 31 | 34 | 8 | 13 | 43 |
+| last60d | 2026-07-15 | 0 | 95 | 69 | 22 | 27 | 239 |
+| 90d | 2026-06-15 | 1 | 140 | 81 | 37 | 29 | 316 |
+| last180d | 2026-03-17 | 3 | 282 | 93 | 84 | 42 | 586 |
+| 360d | 2025-09-18 | 6 | 578 | 120 | 163 | 84 | 1070 |
+| last720d | 2024-09-23 | 11 | 974 | 130 | 381 | 152 | 1495 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:33:12Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:58:04Z._
