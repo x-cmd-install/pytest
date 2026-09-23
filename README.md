@@ -4,7 +4,7 @@
 
 The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 
-[![x-cmd/install — pytest Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pytest.svg)](https://x-cmd.com/install/pytest)
+[![x-cmd/install — pytest Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pytest.svg)](https://x-cmd.com/install/pytest)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,520 · **Forks**: 3,396 · **Open issues**: 6,405 · **Contributors**: 1,001
+- **Stars**: 14,521 · **Forks**: 3,404 · **Open issues**: 6,407 · **Contributors**: 1,001
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 6146 · **Open PRs**: 148 · **Closed issues**: 5727 · **Open issues**: 678 · **Commits**: 17781
+- **Releases**: 84 · **Merged PRs**: 6146 · **Open PRs**: 154 · **Closed issues**: 5729 · **Open issues**: 678 · **Commits**: 17781
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 37 | 46 | 12 | 18 | 76 |
-| last60d | 2026-07-24 | 0 | 87 | 73 | 23 | 29 | 213 |
-| 90d | 2026-06-24 | 0 | 141 | 95 | 36 | 35 | 348 |
-| last180d | 2026-03-26 | 3 | 296 | 108 | 89 | 48 | 632 |
-| 360d | 2025-09-27 | 6 | 590 | 133 | 168 | 87 | 1118 |
-| last720d | 2024-10-02 | 11 | 991 | 142 | 385 | 157 | 1533 |
+| 30d | 2026-08-24 | 0 | 33 | 51 | 14 | 18 | 76 |
+| last60d | 2026-07-25 | 0 | 86 | 79 | 25 | 29 | 213 |
+| 90d | 2026-06-25 | 0 | 140 | 101 | 37 | 35 | 348 |
+| last180d | 2026-03-27 | 3 | 295 | 114 | 89 | 47 | 632 |
+| 360d | 2025-09-28 | 6 | 587 | 139 | 170 | 87 | 1118 |
+| last720d | 2024-10-03 | 11 | 991 | 148 | 387 | 157 | 1533 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:00:38Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:46:10Z._
