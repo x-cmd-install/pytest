@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 386536,
       "digest": "sha256:37a86b45efb9a47a61a36449063e8e18d0cab3161329fc099eb21783169c4f0c",
-      "download_count": 146,
+      "download_count": 151,
       "created_at": "2026-06-19T10:58:55Z",
       "updated_at": "2026-06-19T10:58:55Z",
       "browser_download_url": "https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1636369,
       "digest": "sha256:1088fbde8f2b49d95a549a195707afa7a76a3ce9bcadc26b6d71f0ffda5fe313",
-      "download_count": 155,
+      "download_count": 156,
       "created_at": "2026-06-19T10:58:55Z",
       "updated_at": "2026-06-19T10:58:55Z",
       "browser_download_url": "https://github.com/pytest-dev/pytest/releases/download/9.1.1/pytest-9.1.1.tar.gz"
