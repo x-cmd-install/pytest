@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `9.1.1` (2026-06-19)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,547 · **Forks**: 3,427 · **Open issues**: 6,409 · **Contributors**: 1,002
+- **Stars**: 14,555 · **Forks**: 3,428 · **Open issues**: 6,409 · **Contributors**: 1,002
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 6152 · **Open PRs**: 164 · **Closed issues**: 5731 · **Open issues**: 678 · **Commits**: 17786
+- **Releases**: 84 · **Merged PRs**: 6153 · **Open PRs**: 163 · **Closed issues**: 5731 · **Open issues**: 678 · **Commits**: 17787
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 35 | 58 | 11 | 19 | 74 |
-| last60d | 2026-07-31 | 0 | 77 | 80 | 23 | 28 | 199 |
-| 90d | 2026-07-01 | 0 | 136 | 108 | 36 | 37 | 348 |
-| last180d | 2026-04-02 | 3 | 292 | 124 | 88 | 49 | 630 |
-| 360d | 2025-10-04 | 6 | 583 | 148 | 162 | 88 | 1095 |
-| last720d | 2024-10-09 | 11 | 990 | 158 | 382 | 158 | 1535 |
+| 30d | 2026-08-31 | 0 | 32 | 57 | 11 | 19 | 75 |
+| last60d | 2026-08-01 | 0 | 76 | 79 | 23 | 28 | 200 |
+| 90d | 2026-07-02 | 0 | 137 | 105 | 36 | 37 | 349 |
+| last180d | 2026-04-03 | 3 | 293 | 123 | 88 | 49 | 631 |
+| 360d | 2025-10-05 | 6 | 582 | 147 | 162 | 88 | 1096 |
+| last720d | 2024-10-10 | 11 | 985 | 157 | 380 | 157 | 1533 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:39:26Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:29:07Z._
