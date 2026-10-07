@@ -14,25 +14,25 @@ x install pytest
 
 ## 代码洞察
 
-合计: **141,045** 行代码（覆盖前 5 种语言、共 **648** 个文件）。
+合计: **141,234** 行代码（覆盖前 5 种语言、共 **651** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 97,960 | 4,148 | 14,100 | 274 |
-| ReStructuredText | 41,389 | 0 | 19,650 | 354 |
+| Python | 98,146 | 4,151 | 14,117 | 274 |
+| ReStructuredText | 41,392 | 0 | 19,650 | 357 |
 | Svg | 845 | 70 | 25 | 12 |
 | Toml | 558 | 85 | 27 | 1 |
 | Ini | 207 | 37 | 23 | 7 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.7 / 10**
+总评分: **7 / 10**
 
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install pytest
 
 ## 流行度
 
-- **Star**: 14,571 · **Fork**: 3,444 · **开放 issue**: 6,414 · **贡献者**: 1,003
+- **Star**: 14,575 · **Fork**: 3,449 · **开放 issue**: 6,416 · **贡献者**: 1,006
 
 ## 累计统计
 
-- **发布数**: 84 · **已合并 PR**: 6157 · **开放 PR**: 173 · **已关闭 issue**: 5734 · **开放 issue**: 680 · **提交数**: 17791
+- **发布数**: 84 · **已合并 PR**: 6160 · **开放 PR**: 174 · **已关闭 issue**: 5738 · **开放 issue**: 678 · **提交数**: 17794
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 27 | 67 | 11 | 21 | 62 |
-| last60d | 2026-08-07 | 0 | 71 | 89 | 24 | 29 | 188 |
-| 90d | 2026-07-08 | 0 | 133 | 116 | 36 | 39 | 349 |
-| last180d | 2026-04-09 | 2 | 284 | 134 | 88 | 51 | 601 |
-| 360d | 2025-10-11 | 6 | 576 | 157 | 163 | 90 | 1084 |
-| last720d | 2024-10-16 | 11 | 981 | 167 | 378 | 158 | 1526 |
+| 30d | 2026-09-07 | 0 | 27 | 68 | 12 | 21 | 67 |
+| last60d | 2026-08-08 | 0 | 73 | 92 | 24 | 29 | 193 |
+| 90d | 2026-07-09 | 0 | 134 | 119 | 37 | 40 | 354 |
+| last180d | 2026-04-10 | 2 | 285 | 136 | 89 | 51 | 606 |
+| 360d | 2025-10-12 | 6 | 577 | 158 | 165 | 90 | 1089 |
+| last720d | 2024-10-17 | 11 | 984 | 168 | 380 | 158 | 1529 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ pytest 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T06:18:23Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T05:56:41Z._
