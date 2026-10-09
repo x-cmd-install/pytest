@@ -14,12 +14,12 @@ x install pytest
 
 ## Code insight
 
-Total: **141,234** lines of code across **651** files in the top 5 languages.
+Total: **141,384** lines of code across **653** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 98,146 | 4,151 | 14,117 | 274 |
-| ReStructuredText | 41,392 | 0 | 19,650 | 357 |
+| Python | 98,294 | 4,163 | 14,139 | 274 |
+| ReStructuredText | 41,394 | 0 | 19,650 | 359 |
 | Svg | 845 | 70 | 25 | 12 |
 | Toml | 558 | 85 | 27 | 1 |
 | Ini | 207 | 37 | 23 | 7 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `9.1.1` (2026-06-19)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-08
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,577 · **Forks**: 3,454 · **Open issues**: 6,416 · **Contributors**: 1,006
+- **Stars**: 14,580 · **Forks**: 3,452 · **Open issues**: 6,416 · **Contributors**: 1,006
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 6160 · **Open PRs**: 173 · **Closed issues**: 5739 · **Open issues**: 677 · **Commits**: 17794
+- **Releases**: 84 · **Merged PRs**: 6164 · **Open PRs**: 166 · **Closed issues**: 5741 · **Open issues**: 675 · **Commits**: 17803
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 26 | 65 | 12 | 19 | 67 |
-| last60d | 2026-08-09 | 0 | 70 | 90 | 25 | 28 | 193 |
-| 90d | 2026-07-10 | 0 | 134 | 118 | 38 | 39 | 354 |
-| last180d | 2026-04-11 | 2 | 282 | 135 | 89 | 50 | 606 |
-| 360d | 2025-10-13 | 6 | 573 | 157 | 165 | 88 | 1089 |
-| last720d | 2024-10-18 | 11 | 984 | 167 | 379 | 157 | 1529 |
+| 30d | 2026-09-09 | 0 | 29 | 61 | 11 | 18 | 74 |
+| last60d | 2026-08-10 | 0 | 70 | 85 | 25 | 28 | 200 |
+| 90d | 2026-07-11 | 0 | 136 | 114 | 38 | 39 | 361 |
+| last180d | 2026-04-12 | 2 | 284 | 131 | 89 | 50 | 613 |
+| 360d | 2025-10-14 | 6 | 576 | 152 | 165 | 87 | 1097 |
+| last720d | 2024-10-19 | 11 | 988 | 162 | 378 | 157 | 1538 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:56:58Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:03:17Z._
