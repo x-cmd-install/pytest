@@ -32,7 +32,7 @@ x install pytest
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install pytest
 
 ## 流行度
 
-- **Star**: 14,594 · **Fork**: 3,478 · **开放 issue**: 6,418 · **贡献者**: 1,008
+- **Star**: 14,597 · **Fork**: 3,484 · **开放 issue**: 6,418 · **贡献者**: 1,008
 
 ## 累计统计
 
-- **发布数**: 84 · **已合并 PR**: 6173 · **开放 PR**: 177 · **已关闭 issue**: 5744 · **开放 issue**: 674 · **提交数**: 17820
+- **发布数**: 84 · **已合并 PR**: 6173 · **开放 PR**: 179 · **已关闭 issue**: 5744 · **开放 issue**: 674 · **提交数**: 17820
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 28 | 66 | 11 | 15 | 45 |
-| last60d | 2026-08-15 | 0 | 75 | 92 | 24 | 25 | 157 |
-| 90d | 2026-07-16 | 0 | 139 | 122 | 37 | 39 | 366 |
-| last180d | 2026-04-17 | 2 | 291 | 142 | 88 | 50 | 627 |
-| 360d | 2025-10-19 | 6 | 580 | 160 | 164 | 85 | 1104 |
-| last720d | 2024-10-24 | 11 | 992 | 173 | 379 | 156 | 1551 |
+| 30d | 2026-09-15 | 0 | 27 | 67 | 10 | 14 | 45 |
+| last60d | 2026-08-16 | 0 | 73 | 92 | 24 | 25 | 157 |
+| 90d | 2026-07-17 | 0 | 139 | 124 | 36 | 39 | 366 |
+| last180d | 2026-04-18 | 2 | 290 | 144 | 87 | 50 | 627 |
+| 360d | 2025-10-20 | 6 | 579 | 162 | 164 | 85 | 1104 |
+| last720d | 2024-10-25 | 11 | 991 | 175 | 378 | 155 | 1551 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ pytest 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T04:56:13Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T04:40:55Z._
