@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `9.1.1` (2026-06-19)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,620 · **Forks**: 3,524 · **Open issues**: 6,424 · **Contributors**: 1,010
+- **Stars**: 14,625 · **Forks**: 3,528 · **Open issues**: 6,426 · **Contributors**: 1,010
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 6179 · **Open PRs**: 201 · **Closed issues**: 5748 · **Open issues**: 676 · **Commits**: 17829
+- **Releases**: 84 · **Merged PRs**: 6181 · **Open PRs**: 204 · **Closed issues**: 5748 · **Open issues**: 678 · **Commits**: 17831
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 23 | 72 | 8 | 10 | 47 |
-| last60d | 2026-08-22 | 0 | 66 | 109 | 23 | 28 | 140 |
-| 90d | 2026-07-23 | 0 | 119 | 138 | 33 | 39 | 299 |
-| last180d | 2026-04-24 | 2 | 288 | 164 | 85 | 54 | 623 |
-| 360d | 2025-10-26 | 6 | 579 | 182 | 162 | 88 | 1065 |
-| last720d | 2024-10-31 | 11 | 993 | 197 | 376 | 159 | 1552 |
+| 30d | 2026-09-22 | 0 | 25 | 71 | 6 | 12 | 50 |
+| last60d | 2026-08-23 | 0 | 68 | 112 | 21 | 30 | 143 |
+| 90d | 2026-07-24 | 0 | 118 | 139 | 33 | 40 | 302 |
+| last180d | 2026-04-25 | 2 | 289 | 167 | 85 | 56 | 626 |
+| 360d | 2025-10-27 | 6 | 576 | 185 | 162 | 90 | 1068 |
+| last720d | 2024-11-01 | 11 | 995 | 200 | 375 | 161 | 1552 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:47:07Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:36:18Z._
