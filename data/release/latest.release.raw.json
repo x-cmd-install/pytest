@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 411776,
       "digest": "sha256:07acdcf88ec174f907dc01af70bf52d49b014bbab03faeeade31c96b18c2e588",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-10-27T21:30:43Z",
       "updated_at": "2026-10-27T21:30:43Z",
       "browser_download_url": "https://github.com/pytest-dev/pytest/releases/download/9.2.0/pytest-9.2.0-py3-none-any.whl"
