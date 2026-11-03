@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `9.2.0` (2026-10-27)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,661 · **Forks**: 3,586 · **Open issues**: 6,440 · **Contributors**: 1,016
+- **Stars**: 14,662 · **Forks**: 3,591 · **Open issues**: 6,440 · **Contributors**: 1,016
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 6198 · **Open PRs**: 235 · **Closed issues**: 5756 · **Open issues**: 684 · **Commits**: 17878
+- **Releases**: 85 · **Merged PRs**: 6201 · **Open PRs**: 236 · **Closed issues**: 5756 · **Open issues**: 684 · **Commits**: 17884
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 36 | 87 | 13 | 16 | 71 |
-| last60d | 2026-09-03 | 1 | 71 | 141 | 24 | 35 | 153 |
-| 90d | 2026-08-04 | 1 | 110 | 164 | 36 | 44 | 285 |
-| last180d | 2026-05-06 | 3 | 292 | 197 | 89 | 62 | 647 |
-| 360d | 2025-11-07 | 7 | 573 | 215 | 165 | 95 | 1010 |
-| last720d | 2024-11-12 | 12 | 1000 | 231 | 376 | 166 | 1570 |
+| 30d | 2026-10-04 | 1 | 36 | 87 | 13 | 16 | 77 |
+| last60d | 2026-09-04 | 1 | 72 | 142 | 24 | 35 | 159 |
+| 90d | 2026-08-05 | 1 | 112 | 164 | 36 | 44 | 291 |
+| last180d | 2026-05-07 | 3 | 295 | 198 | 88 | 61 | 653 |
+| 360d | 2025-11-08 | 7 | 569 | 216 | 161 | 94 | 1016 |
+| last720d | 2024-11-13 | 12 | 1001 | 232 | 375 | 166 | 1573 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:55:50Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:40:33Z._
