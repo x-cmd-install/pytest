@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `9.2.0` (2026-10-27)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-07
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,671 · **Forks**: 3,608 · **Open issues**: 6,446 · **Contributors**: 1,016
+- **Stars**: 14,670 · **Forks**: 3,607 · **Open issues**: 6,447 · **Contributors**: 1,016
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 6202 · **Open PRs**: 242 · **Closed issues**: 5757 · **Open issues**: 689 · **Commits**: 17888
+- **Releases**: 85 · **Merged PRs**: 6203 · **Open PRs**: 242 · **Closed issues**: 5757 · **Open issues**: 690 · **Commits**: 17890
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 30 | 86 | 10 | 20 | 81 |
-| last60d | 2026-09-08 | 1 | 65 | 142 | 23 | 38 | 163 |
-| 90d | 2026-08-09 | 1 | 109 | 167 | 36 | 47 | 295 |
-| last180d | 2026-05-11 | 3 | 289 | 203 | 85 | 65 | 657 |
-| 360d | 2025-11-12 | 6 | 537 | 222 | 153 | 96 | 1020 |
-| last720d | 2024-11-17 | 12 | 997 | 238 | 374 | 171 | 1560 |
+| 30d | 2026-10-09 | 1 | 30 | 84 | 10 | 21 | 70 |
+| last60d | 2026-09-09 | 1 | 66 | 142 | 22 | 38 | 132 |
+| 90d | 2026-08-10 | 1 | 107 | 166 | 36 | 48 | 273 |
+| last180d | 2026-05-12 | 3 | 287 | 203 | 84 | 66 | 646 |
+| 360d | 2025-11-13 | 5 | 533 | 222 | 152 | 95 | 1003 |
+| last720d | 2024-11-18 | 12 | 994 | 238 | 374 | 171 | 1549 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:58:50Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:55:33Z._
