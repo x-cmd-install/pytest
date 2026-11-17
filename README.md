@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `9.2.0` (2026-10-27)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-17
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,689 · **Forks**: 3,674 · **Open issues**: 6,452 · **Contributors**: 1,016
+- **Stars**: 14,691 · **Forks**: 3,712 · **Open issues**: 6,454 · **Contributors**: 1,017
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 6211 · **Open PRs**: 253 · **Closed issues**: 5761 · **Open issues**: 691 · **Commits**: 17899
+- **Releases**: 85 · **Merged PRs**: 6213 · **Open PRs**: 255 · **Closed issues**: 5760 · **Open issues**: 694 · **Commits**: 17900
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 31 | 80 | 9 | 22 | 58 |
-| last60d | 2026-09-17 | 1 | 58 | 135 | 19 | 31 | 125 |
-| 90d | 2026-08-18 | 1 | 103 | 167 | 35 | 47 | 225 |
-| last180d | 2026-05-20 | 3 | 282 | 214 | 80 | 69 | 595 |
-| 360d | 2025-11-21 | 5 | 526 | 232 | 147 | 96 | 995 |
-| last720d | 2024-11-26 | 12 | 996 | 249 | 370 | 173 | 1526 |
+| 30d | 2026-10-18 | 1 | 31 | 80 | 7 | 24 | 59 |
+| last60d | 2026-09-18 | 1 | 59 | 135 | 19 | 33 | 126 |
+| 90d | 2026-08-19 | 1 | 100 | 167 | 33 | 49 | 226 |
+| last180d | 2026-05-21 | 3 | 282 | 216 | 80 | 71 | 596 |
+| 360d | 2025-11-22 | 5 | 526 | 234 | 147 | 97 | 996 |
+| last720d | 2024-11-27 | 12 | 998 | 250 | 370 | 174 | 1527 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for pytest lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:22:30Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:52:51Z._
