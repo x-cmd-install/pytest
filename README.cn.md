@@ -26,13 +26,13 @@ x install pytest
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.8 / 10**
+总评分: **7.9 / 10**
 
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install pytest
 ## 发布
 
 - **最新版本**: `9.2.0` (2026-10-27)
-- **最近提交**: 2026-11-22
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 14,739 · **Fork**: 3,763 · **开放 issue**: 6,461 · **贡献者**: 1,021
+- **Star**: 14,744 · **Fork**: 3,762 · **开放 issue**: 6,461 · **贡献者**: 1,021
 
 ## 累计统计
 
-- **发布数**: 85 · **已合并 PR**: 6223 · **开放 PR**: 257 · **已关闭 issue**: 5764 · **开放 issue**: 697 · **提交数**: 17929
+- **发布数**: 85 · **已合并 PR**: 6224 · **开放 PR**: 259 · **已关闭 issue**: 5764 · **开放 issue**: 697 · **提交数**: 17930
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 26 | 70 | 8 | 25 | 39 |
-| last60d | 2026-09-24 | 1 | 61 | 130 | 19 | 32 | 135 |
-| 90d | 2026-08-25 | 1 | 102 | 170 | 33 | 52 | 232 |
-| last180d | 2026-05-27 | 3 | 274 | 218 | 80 | 74 | 623 |
-| 360d | 2025-11-28 | 5 | 528 | 236 | 146 | 101 | 1020 |
-| last720d | 2024-12-03 | 11 | 997 | 252 | 370 | 176 | 1536 |
+| 30d | 2026-10-25 | 1 | 26 | 71 | 8 | 25 | 40 |
+| last60d | 2026-09-25 | 1 | 62 | 130 | 19 | 32 | 136 |
+| 90d | 2026-08-26 | 1 | 103 | 169 | 32 | 51 | 233 |
+| last180d | 2026-05-28 | 3 | 274 | 220 | 80 | 74 | 624 |
+| 360d | 2025-11-29 | 5 | 525 | 238 | 146 | 101 | 1021 |
+| last720d | 2024-12-04 | 11 | 998 | 254 | 369 | 176 | 1537 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ pytest 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T08:28:59Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T09:56:49Z._
